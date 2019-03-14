@@ -4,7 +4,14 @@ $main: #444054;
 $lightpink: #FAC9B8;
 $pink: #DB8A74;
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   background-color: $lightpink;
 }
+
+
+/*make navbar on the bottom on the landing page but when user scrolls, it sticks to the top*/

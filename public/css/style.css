@@ -1,3 +1,8 @@
+* {
+  box-sizing: border-box; }
+
 body {
   margin: 0;
   background-color: #FAC9B8; }
+
+/*make navbar on the bottom on the landing page but when user scrolls, it sticks to the top*/
